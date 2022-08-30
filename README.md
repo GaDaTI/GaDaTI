@@ -19,7 +19,16 @@
 <h3><b>Conhecimento:</b></h3>
 
 * Logica de programação
+
+
+
 * Python
+~~~~python
+def soma(a, b):
+    resultado = a + b
+    return resultado
+
+~~~~
 
 
 <hr>
