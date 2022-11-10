@@ -34,8 +34,8 @@ def soma(a, b):
 
 * Python
 * Django
-* 
-* 
+
+
 
 
 <p >
