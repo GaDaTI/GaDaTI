@@ -18,9 +18,6 @@
 <hr>
 <h3><b>Conhecimento:</b></h3>
 
-* Logica de programação
-
-
 
 * Python
 ~~~~python
