@@ -33,7 +33,8 @@ def soma(a, b):
 <h3><b>Atualmente aprendendo:</b></h3>
 
 * Python
-* Django
+* Linux
+* Docker
 
 
 
